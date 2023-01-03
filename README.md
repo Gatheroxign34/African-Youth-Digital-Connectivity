@@ -15,8 +15,8 @@
         <p> Analysis: Determined that the region of Africa (North, Central and South) plays a role in overall rates of digital connectivity. Further 
         showcased that urban versus rural territories within African countries contribute to higher rates of connectivity. And, rich versus poor 
         areas of African countries also affect the rate of youth connectivity.</p>
-        <p> Recommendation: When looking for insights into the digital divide in Africa look closely as regional patterns of connectivity 
-        both infrastructural differences as well as socioeconomic differences. 
+        <p> Recommendation: When looking for insights into the digital divide in Africa look closely as regional patterns of connectivity; 
+        include infrastructural differences as well as socioeconomic differences. 
         </p>
 <h4> Click below to see the final dashboard that is interactive: <h4> 
 <a href = "https://public.tableau.com/views/AfricanUpperSecondarySchoolDigitalConnectivitybySubregionAndWealthDistribution/AfricanUpperSecondaryDigitalConnectivityByRegionandWealthDistribution?:language=en-US&:display_count=n&:origin=viz_share_link"> Interactive Tableau Dashboard </a>     
