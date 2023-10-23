@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-
-    <h1> What percentage of upper secondary school students in African countries are digitally connected? </h1>
+![African Upper Secondary Digital Connectivity By Region and Wealth Distribution(2)](https://github.com/Gatheroxign34/African-Youth-Digital-Connectivity/assets/94628744/52492d15-8375-4ed9-97d5-072d9f03974b)
+<html> 
+    <body>
+ <h1> What percentage of upper secondary school students in African countries are digitally connected? </h1>
         <p> This project explores this question using UNICEF data with Salesforce Tableau </p>
         <p> Inquiry: Grouped data on African youth in 2018-2019 to better understand the distribution of access to technology based on geographic  
         location, and factors such as income level and population density.</p> 
